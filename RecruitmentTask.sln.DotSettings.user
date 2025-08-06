@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0a4cb2d6_002D80ed_002D447e_002Da746_002Df8034e5bb262/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8876939B-D9A5-4B25-BAF8-98835B77494A::net9.0::TestProject.UnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::91AFC513-DAD2-4DD5-B1AB-EC27D5A8F8F8::net9.0::Application.Tests.EmployeeQueryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::91AFC513-DAD2-4DD5-B1AB-EC27D5A8F8F8::net9.0::Application.Tests.EmployeeStructureTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::91AFC513-DAD2-4DD5-B1AB-EC27D5A8F8F8::net9.0::Application.Tests.EmployeeRequestVacationTest.employee_can_request_vacation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::91AFC513-DAD2-4DD5-B1AB-EC27D5A8F8F8::net9.0::Application.Tests.EmployeeRequestVacationTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
